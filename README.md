@@ -28,7 +28,6 @@ Professional transitioning to the Database Administration field, holding a Bache
 - Agile/Scrum Methodology | Professional Scrum Master™ I (PSM I)
 - Advanced Excel | EF SET English Certificate (C2 Proficient)
 - LGPD (Data Privacy & Protection)
-- 
 ---
 
 🚀🌕 *"Turning data into decisions, and challenges into opportunities."*
