@@ -1,22 +1,40 @@
-<h1 align="center">Hi, I'm Victor Luiz de França</h1>
-<h3 align="center">Aspiring Data Scientist 📊🔍💻</h3>
+# Victor Luiz de França
+**Aspirante a DBA | Database Engineering Student | Former Serasa Experian Analyst**
 
-- 🔭 I’m currently working on [Randstad DIO Data Analysis Bootcamp](https://web.dio.me/track/randstad-analise-de-dados)
+📍 Cosmópolis, São Paulo, Brazil  
+📧 victorfranca1997@gmail.com  
+📱 +55 (19) 98187-8424  
+💼 [LinkedIn](https://www.linkedin.com/in/victorluizfranca)
 
-- 🌱 I’m currently learning **Python, SQL, Git, PowerBI**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/victorlzfr](https://github.com/victorlzfr)
+Professional transitioning to the Database Administration field, holding a Bachelor's degree in Information Systems from **USP** and currently pursuing a Postgraduate degree in **Database Engineering and Administration at Unicamp**. My previous experience in technical sales has equipped me with a strategic, results-oriented vision, which I now apply to database administration and optimization.
 
-- 📫 How to reach me **victorfranca1997@gmail.com**
+**Key Highlights:**
+- Successfully migrated backup jobs from BMC Control-M to IBM TSM, resulting in **100+ license savings**
+- Achieved **70% reduction** in recurring backup incidents through automation and troubleshooting
+- Certified **Scrum Master (PSM I)** with practical experience in agile methodologies
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/victorluizfranca/](https://www.linkedin.com/in/victorluizfranca/)
+## 🛠 Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/victorluizfranca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorluizfranca" height="30" width="40" /></a>
-<a href="https://kaggle.com/victorluizdefranca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="victorluizdefranca" height="30" width="40" /></a>
-<a href="https://medium.com/@victorfrana_17505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victorfrana_17505" height="30" width="40" /></a>
-</p>
+**Database Administration**
+- DBMS Fundamentals | SQL | Data Modeling | Query Optimization
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+**Backup & Automation**
+- **Backup Tools:** IBM Tivoli Storage Manager (TSM) | BMC Control-M
+- **Automation:** Python | Linux Shell Scripting
+- **Version Control:** Git
+
+**Methodologies & Certifications**
+- Agile/Scrum Methodology | Professional Scrum Master™ I (PSM I)
+- Advanced Excel | EF SET English Certificate (C2 Proficient)
+- LGPD (Data Privacy & Protection)
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/victorluizfranca](https://www.linkedin.com/in/victorluizfranca)
+- Email: victorfranca1997@gmail.com
+
+---
+
+⭐️ *"Turning data into decisions, and challenges into opportunities."*
