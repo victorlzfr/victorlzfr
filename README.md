@@ -3,7 +3,6 @@
 
 📍 Cosmópolis, São Paulo, Brazil  
 📧 victorfranca1997@gmail.com  
-📱 +55 (19) 98187-8424  
 💼 [LinkedIn](https://www.linkedin.com/in/victorluizfranca)
 
 ## 🚀 About Me
@@ -29,12 +28,7 @@ Professional transitioning to the Database Administration field, holding a Bache
 - Agile/Scrum Methodology | Professional Scrum Master™ I (PSM I)
 - Advanced Excel | EF SET English Certificate (C2 Proficient)
 - LGPD (Data Privacy & Protection)
-
-## 📫 Let's Connect
-
-- LinkedIn: [linkedin.com/in/victorluizfranca](https://www.linkedin.com/in/victorluizfranca)
-- Email: victorfranca1997@gmail.com
-
+- 
 ---
 
-⭐️ *"Turning data into decisions, and challenges into opportunities."*
+🚀🌕 *"Turning data into decisions, and challenges into opportunities."*
