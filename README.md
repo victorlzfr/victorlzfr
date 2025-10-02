@@ -30,4 +30,4 @@ Professional transitioning to the Database Administration field, holding a Bache
 - LGPD (Data Privacy & Protection)
 ---
 
-🚀🌕 *"Turning data into decisions, and challenges into opportunities."*
+My mission: to keep data highly available, secure, and fast. 🚀🌕
